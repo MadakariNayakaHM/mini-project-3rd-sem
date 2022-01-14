@@ -1,0 +1,94 @@
+
+        
+        [
+            {
+             "id": 0, 
+             "diseaseName": "COVID-19",
+             "use":"Fever or chills,Cough,Shortness of breath or difficulty breathing,Fatigue,Muscle or body aches,Headache,New loss of taste or smell",
+             "tab_name": "Acetaminophen",
+             "contents ":"Paracetomol,Tylenol",
+             "company":"Aan Pharma Pvt Ltd",
+             "price":"₹ 2385.60,for 24 caplets,500mg"
+            },
+            {
+             "id": 1, 
+             "diseaseName": "Cancer",
+             "use":"Fatigue,Lump can be felt under the skin,Weight changes, including unintended loss or gain,Skin changes, such as yellowing, darkening or redness of the skin, sores that won't heal, or changes to existing moles",
+             "tab_name":"N. Nanoparticle Paclitaxel ",
+             "contents ":"Paclitaxel Albumin-stabilized Nanoparticle Formulation",
+             "company":"Abraxane",
+             "price":"₹ 9349,260mg"
+            },
+            {
+             "id": 2, 
+             "diseaseName": "Diabetes",
+             "use":"Presence of ketones in the urine, Frequent infections, such as gums or skin infections and vaginal infections",
+             "tab_name":"Remo",
+             "contents ":"remogliflozin-etabonate-metforin",
+             "company":"glenmark-pharmaceuticals-ltd",
+             "price":"₹ 147.23"
+            },
+            {
+             "id": 3, 
+             "diseaseName": "Flu(Influenza)",
+             "use":"fever* or feeling feverish/chills,cough,sore throat,runny or stuffy nose,muscle or body aches,headaches,fatigue (tiredness)",
+             "tab_name":"Panadol",
+             "contents ":"Paracetomol",
+             "company":"GlaxoSmithKline",
+             "price":"₹ 1697"
+            },
+            {
+             "id": 4, 
+             "diseaseName": "Gonorrhea",
+             "use":"Frequent Urination,A pus-like discharge from the penis,Swelling at the to of penis,,use in women include:Discharge from the vagina,Pain or burning sensation while urinating",
+             "tab_name":"Windmill DHEA 50mg",
+             "contents ":"Dicalcium phosphate, microcrystalline cellulose, croscarmellose sodium, stearic acid, silica, magnesium stearate and coating",
+             "company":"Diet works",
+             "price":"₹ 3070 per tablet bottle"
+            },
+            {
+             "id": 5, 
+             "diseaseName": "Birth Defects",
+             "use":"Rapid heartbeat,Breathing difficulties,Feeding problems (which result in inadequate weight gain,Swelling in the legs, abdomen",
+             "tab_name":"Mitoprostol",
+             "contents ":"Prostaglandin E1 (PGE1) analogue-obstetrics (Prostaglandin Aanalogue)",
+             "company":"Misoprost",
+             "price":"₹ 100 per sheet"
+            },
+            {
+             "id": 6, 
+             "diseaseName": "Asthma",
+             "use":"Dyspnoea or difficult breathing,Skin and mucous membrane turning to blue in colour",
+             "tab_name":"Xanthines",
+             "contents ":"Theophylline",
+             "company":"Xanthinesmind.in",
+             "price":"₹ 1347 per kg"
+            },
+            {
+             "id": 7, 
+             "diseaseName": "Chlamydia",
+             "use":"pain or burning while peeing,pain during sex,lower belly pain,abnormal vaginal discharge",
+             "tab_name":"Azithromycin 500mg tablets",
+             "contents":"croscarmellose sodium, dibasic calcium phosphate anhydrous, hypromellose, lactose monohydrate, pregelatinized starch (maize), magnesium stearate, sodium lauryl sulfate, titanium dioxide and triacetin.",
+             "company":"azithromycinstsar.in",
+             "price":"₹ 2622 per sheet"
+            },
+            {
+             "id": 8, 
+             "diseaseName": "Ebola",
+             "use":"Fever,Fatigue,Joint and muscle pain,Headache,Sore throat,Cough",
+             "tab_name":"Amoxillin",
+             "contents ":"Cell wall active agent -Extended spectrum Penicillin",
+              "company":"Novomax",
+             "price":"₹ 750 per sheet"
+            },
+            {
+             "id": 9, 
+             "diseaseName": "Arthritis",
+             "use":"Joint pain- knee or hip pain,Swelling,Redness in the joints,Tenderness in jointsLoss of appetite,Fever",
+             "tab_name":"Jardience",
+             "contents ":"SGLT2 inhibitors (Phenolic Glycosides Derivative)",
+             "company":"Boehringer Ingelheim",
+             "price":"₹ 555 per 30 tablets"
+            }
+        ]
